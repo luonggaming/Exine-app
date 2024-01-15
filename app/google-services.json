@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631360314034",
+    "project_id": "exinedb",
+    "storage_bucket": "exinedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631360314034:android:8ddf5d9d97523cb87787ab",
+        "android_client_info": {
+          "package_name": "com.example.exine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlO2gBFL5Yl38HpWYcUhwiEcLmkcf4xjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
